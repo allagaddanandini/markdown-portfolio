@@ -1,5 +1,3 @@
-Replace ![0001](https://user-images.githubusercontent.com/94156658/141838242-c5724217-af59-4dbc-8c0f-963b236387dd.jpg)
-this with an image, like your photo. Ensure you include some alt-text.
+![0001](https://user-images.githubusercontent.com/94156658/141839269-051e913a-064e-4e55-8da4-fc51ae914b0f.jpg)
 
-"C:\Users\RAKESH REDDY\Pictures\Saved Pictures\IMG_20190728_154011_222-01.jpeg"
 check the result
